@@ -1,0 +1,25 @@
+{
+  "name": "react-node-cli",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wengwengweng/react-node-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wengwengweng/react-node-cli/issues"
+  },
+  "homepage": "https://github.com/wengwengweng/react-node-cli#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.15.1",
+    "inquirer": "^6.0.0",
+    "validate-npm-package-name": "^3.0.0"
+  }
+}
